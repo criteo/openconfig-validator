@@ -1,0 +1,3 @@
+include MANIFEST.in
+
+graft openconfig_validator/bin
