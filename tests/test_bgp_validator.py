@@ -18,7 +18,7 @@ bgp_data_valid = {
                     "send-community": "NONE",
                     "description": "to:device2",
                     "peer-group": "PG-TEST",
-                    "neighbor-address": "192.2.0.1",
+                    "neighbor-address": "192.0.2.1",
                     "enabled": True,
                 },
                 "afi-safis": {
@@ -43,7 +43,7 @@ bgp_data_valid = {
                         }
                     ]
                 },
-                "neighbor-address": "192.2.0.1",
+                "neighbor-address": "192.0.2.1",
             }
         ]
     }
@@ -63,7 +63,7 @@ bgp_data_invalid = {
                     "send-community": "NONE",
                     "description": "to:device2",
                     "peer-group": "PG-TEST",
-                    "neighbor-address": "192.2.0.1",
+                    "neighbor-address": "192.0.2.1",
                     "enabled": True,
                 },
                 "afi-safis": {
@@ -88,7 +88,7 @@ bgp_data_invalid = {
                         }
                     ]
                 },
-                "neighbor-address": "192.2.0.1",
+                "neighbor-address": "192.0.2.1",
             }
         ]
     }
