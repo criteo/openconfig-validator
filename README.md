@@ -1,3 +1,5 @@
+> This repository is DEPRECATED as we are migrating to Go directly. Also, it will stop working starting Python3.10.
+
 # openconfigValidator
 
 ## Description
